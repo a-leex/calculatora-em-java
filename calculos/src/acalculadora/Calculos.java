@@ -1,4 +1,4 @@
-package calculos;
+package calculadora;
 
 import java.awt.EventQueue;
 
